@@ -3,3 +3,4 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
 
 ## Materijali
   - čas01: Uvod u programski jezik Java
+  - čas02: Nizovi, matrice i niske
