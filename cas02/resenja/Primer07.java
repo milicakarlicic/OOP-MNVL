@@ -11,7 +11,7 @@ public class Primer07 {
         int[] kopija = Arrays.copyOf(niz, niz.length);
         System.out.println("kopija " + Arrays.toString(kopija));
 
-        int[] podniz = Arrays.copyOfRange(niz, 2, 4);
+        int[] podniz = Arrays.copyOfRange(niz, 2, 5);
         System.out.println("podniz " + Arrays.toString(podniz));
     }
 }
