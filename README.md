@@ -7,4 +7,5 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas03: Niske - nastavak, StringBuilder; Klase i objekti
   - čas04: Konstruktor kopije, statičke promenljive i metode, nasleđivanje
   - čas05: Apstraktne klase, polimorfizam
-  - čas06: Interfejsi, enumi
+  - čas06: Interfejsi; Enumi
+  - čas07: Izuzeci; Kloniranje (metod clone)
