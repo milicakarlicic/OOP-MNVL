@@ -10,3 +10,4 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas06: Interfejsi; Enumi
   - čas07: Izuzeci; Kloniranje (metod *clone*)
   - čas08: Generičke klase i metode
+  - čas09: Generičke kolekcije
