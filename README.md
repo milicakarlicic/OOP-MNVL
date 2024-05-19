@@ -13,3 +13,4 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas09: Generičke kolekcije
   - čas10: Poređenje objekata - interfejsi *Comparable* i *Comparator*
   - čas11: Datoteke - NIO i IO pristup
+  - čas12: JavaFX
