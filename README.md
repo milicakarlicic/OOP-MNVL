@@ -16,4 +16,4 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas12: *JavaFX*
   - čas13: Ispitni rok - Septembar 3 2019/2020
 
-Napomena: Ako imate problema sa korišćenjem *JavaFx* biblioteke, pratite uputstvo sa [linka](https://www.youtube.com/watch?v=Ope4icw6bVk).
+Napomena: Ako imate problema sa korišćenjem *JavaFx* biblioteke, pratite uputstvo za podešavanje sa [linka](https://www.youtube.com/watch?v=Ope4icw6bVk).
