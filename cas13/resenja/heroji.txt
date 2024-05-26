@@ -1,0 +1,5 @@
+r,Geralt,5050,covek,15,12,13,11,10,11
+m,Merlin,5999,covek,10,11,10,15,15,12
+r,Gimli,4510,patuljak,13,11,12,10,10,11
+m,AlbusDambldor,8422,covek,10,11,10,18,19,15
+r,Legolas,6050,vilenjak,12,19,12,11,13,11
